@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353952865693",
+    "project_id": "mynotes-two-mulder-flutter",
+    "storage_bucket": "mynotes-two-mulder-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353952865693:android:09ab66653b0fb766b7e374",
+        "android_client_info": {
+          "package_name": "oosthuizen.mulder.mynotestwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353952865693-5csgvliov0nq25dehjfiiomoomvkbk4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-uQa8yrCpZGItYHej5YaYGFZ0YJ7JFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353952865693-5csgvliov0nq25dehjfiiomoomvkbk4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
